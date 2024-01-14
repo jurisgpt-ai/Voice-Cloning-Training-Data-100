@@ -68,10 +68,10 @@ For collaboration inquiries or feedback, please contact [LinkedIn Profile](https
 
 ## License Information
 
-This dataset is released under [specify the license, e.g., MIT License]. Please review the license terms for legal use of the dataset.
+This dataset is released under the MIT License. This permissive license permits unrestricted use, redistribution, and modification of the dataset for any purpose. Please review the [MIT License](https://opensource.org/licenses/MIT) terms for more details.
+
 
 ## Acknowledgments
-
 
 
 ---
