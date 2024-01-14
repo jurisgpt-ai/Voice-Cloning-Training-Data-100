@@ -62,7 +62,7 @@ We welcome contributions to this project. If you wish to contribute:
 2. Make your changes or additions.
 3. Submit a pull request with a clear description of your modifications.
 
-For collaboration inquiries or feedback, please contact [insert your contact information here].
+For collaboration inquiries or feedback, please contact [https://www.linkedin.com/in/kumar07/].
 
 ## License Information
 
