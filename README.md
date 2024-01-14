@@ -1,7 +1,6 @@
-# Voice-Cloning-Training-Data-150
-Training Data 
+# Voice-Cloning-Training-Data-100
 
-The sentence collection provided contains a  variety of linguistic features and structures, reflecting diverse aspects of language use. This data was compiled primarily to develop a reference data set for voice cloning for offensive, defensive and feature testing for legitimate business, research or academic use cases. A common reference data set can be universally used and made available for public benefit. 
+The sentence collection provided contains a  variety of linguistic features and structures, reflecting diverse aspects of English language use. This data was compiled primarily to develop a reference data set for voice cloning for offensive, defensive and feature testing for legitimate business, research or academic use cases. A common reference data set can be universally used and made available for public benefit. 
 
 
 
