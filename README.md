@@ -36,6 +36,8 @@ This dataset is intended for use by:
 - Developers in AI and Voice Synthesis
 - Academics in Language and Forensic Studies
 - Any individual or organization interested in voice cloning technology
+- Cyber Security
+- Law Enforcement, National Security 
 
 ## Usage Guidelines
 
@@ -48,11 +50,10 @@ To use this dataset:
 ## Potential Applications
 
 - Developing more nuanced and versatile voice recognition systems.
-- Enhancing synthetic
-
-voice generation for AI assistants.
+- Enhancing synthetic voice generation for AI assistants.
 - Forensic linguistic analysis for authenticity and speaker identification.
 - Academic research in phonetics, linguistics, and language processing.
+- Cybersecurity applied research focussing on detection of cloned voice misuse and abuse, text to speech abuse detection.
 
 ## Contribution and Collaboration
 
@@ -62,7 +63,8 @@ We welcome contributions to this project. If you wish to contribute:
 2. Make your changes or additions.
 3. Submit a pull request with a clear description of your modifications.
 
-For collaboration inquiries or feedback, please contact [https://www.linkedin.com/in/kumar07/].
+For collaboration inquiries or feedback, please contact [LinkedIn Profile](https://www.linkedin.com/in/kumar07/).
+
 
 ## License Information
 
