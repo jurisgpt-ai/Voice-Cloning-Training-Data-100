@@ -1,6 +1,7 @@
 # Voice Cloning Training Data: A Linguistic Sentence Collection
 
-https://files.oaiusercontent.com/file-2akYq5wZhJBRP7oMcUdcLq0F?se=2024-01-14T21%3A40%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D99de8d5e-23cd-420e-8111-070f121c6597.webp&sig=yDJdqnBJagyr4lEwbnkgrrCEq0fwPUWOA6Babkfeha8%3D![image](https://github.com/jurisgpt-ai/Voice-Cloning-Training-Data-150/assets/126611532/64068d7b-bcc0-418d-91b4-65e7c303f9b5)
+![Voice Cloning Training Data Reference](https://github.com/jurisgpt-ai/Voice-Cloning-Training-Data-150/blob/main/VoiceCloningReferenceData-100.png)
+
 
 ## Introduction
 
